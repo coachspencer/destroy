@@ -1,0 +1,2 @@
+# destroy
+destroy video
